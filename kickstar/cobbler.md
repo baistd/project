@@ -225,3 +225,4 @@ cobbler [distro] remove –name=[CentOS-6.7] 方括号中的内容根据自己�
     [root@localhost /]# /etc/init.d/cobblerd restart 
  这个时候，你就可以通过命令行来动态修改cobbler配置
 
+ test
